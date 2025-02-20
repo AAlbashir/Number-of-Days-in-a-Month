@@ -14,5 +14,5 @@ This is a simple project to return the number of days in a month
 ## The purpose of the project
 It was solely developed for the purpose of assigment Readme in Module 6 of CAS502
 
-## Installation
-You may install directly for GitHub using using [GitHub Pages](https://pages.github.com/)
+## Colning Repository
+You may clone the repository on GitBash using the link: [GitHub Repository](https://github.com/AAlbashir/Number-of-Days-in-a-Month.git)
