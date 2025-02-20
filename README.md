@@ -7,6 +7,7 @@ This is a simple project to return the number of days in a month
 # Month as numerical value
 > [!IMPORTANT]
 > 1=January 2=February 3=March 4=April 5=May 6=June 7=July 8=August 9=September 10=October 11=November 12=December
+
 > [!NOTE]
 > February sometimes is 28 days and other time is 29 days
 
